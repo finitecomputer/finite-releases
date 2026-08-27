@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "name": "finitesitesd-linux-x86_64.tar.gz",
+      "sha256": "1837a71d167f0351043b10e92b6def3238ca6d38e6a02f48b48d7c5e5f2fa3be",
+      "size": 5679241
+    },
+    {
+      "name": "finitesitesd-linux-x86_64.tar.gz.sha256",
+      "sha256": "bc3dc389fe193d9e66cf4c40182069531d1828e5028438a41588fcb141f2a8eb",
+      "size": 99
+    },
+    {
+      "name": "fsite-linux-x86_64.tar.gz",
+      "sha256": "f0f28bbb32ce17a7ea383a9cb0dc43b415bb2d4cfbfe8571c42cc2e15ed7ca00",
+      "size": 2085156
+    },
+    {
+      "name": "fsite-linux-x86_64.tar.gz.sha256",
+      "sha256": "b632a1538fe6920ed29667ce207552a2f1ad5eb6b0c416dc020043624372224c",
+      "size": 92
+    },
+    {
+      "name": "fsite-macos-aarch64.tar.gz",
+      "sha256": "d92f319684339f40a9411f006e4ff7b9eb891d7f0ffa69c0f3daf1df982a7adc",
+      "size": 1898070
+    },
+    {
+      "name": "fsite-macos-aarch64.tar.gz.sha256",
+      "sha256": "6de5f7ee49830272a803ea86a5297a643f902a257da047e5725894f2459e2c64",
+      "size": 93
+    },
+    {
+      "name": "fsite-macos-x86_64.tar.gz",
+      "sha256": "b66434120bf46f8d6d68988b9cbdcadc46147aa0d61165e575fc433b288c81f1",
+      "size": 1988784
+    },
+    {
+      "name": "fsite-macos-x86_64.tar.gz.sha256",
+      "sha256": "d932b83156a18e9c9f2ff2cfbbd4a6381c1a4ef152950a79ef4b08b9e65e0da9",
+      "size": 92
+    }
+  ],
+  "build_run": "33100212276",
+  "component": "fsite",
+  "schema": "finite-release/v1",
+  "source_sha": "841eb99b3ab0f3814a44765c65fb951c5c106c2a",
+  "tag": "fsite/v0.5.2",
+  "version": "0.5.2"
+}
