@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "name": "finitechat-linux-x86_64.tar.gz",
+      "sha256": "ad9c321228a94bf0ec17755b4c0908faf1d7cbbfa0825eaf66cbee0b30b4fac6",
+      "size": 9733609
+    },
+    {
+      "name": "finitechat-linux-x86_64.tar.gz.sha256",
+      "sha256": "aa3b3fba65c48e8e71c70b237ce32835dbd24ac3d6d11583892ab466f466f2a8",
+      "size": 97
+    },
+    {
+      "name": "finitechat-macos-aarch64.tar.gz",
+      "sha256": "53cb290c7bfe7f0925de8c5fc7255165f068b9a6b69ef5a0f232aefee10a1f26",
+      "size": 8907178
+    },
+    {
+      "name": "finitechat-macos-aarch64.tar.gz.sha256",
+      "sha256": "538d337b0a4da48fddbdef2505ec447300b0415d877015ab94ad060a8c324e89",
+      "size": 98
+    },
+    {
+      "name": "finitechat-macos-x86_64.tar.gz",
+      "sha256": "d734c054717674fffe9412c6432877d524fd268ae0d049106b176b834f6bc13a",
+      "size": 9330038
+    },
+    {
+      "name": "finitechat-macos-x86_64.tar.gz.sha256",
+      "sha256": "7a07fb984d0d23036a014b85ea9046a9a37f622cd714862292aa6752b18e5902",
+      "size": 97
+    }
+  ],
+  "build_run": "github-release-backfill:377512586",
+  "component": "finitechat",
+  "schema": "finite-release/v1",
+  "source_sha": "b9254c81cf48c83d66424fe72aeaf8035bc1cdfb",
+  "tag": "finitechat/v0.2.0",
+  "version": "0.2.0"
+}
