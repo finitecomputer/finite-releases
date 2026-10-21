@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "name": "fbrain-linux-x86_64.tar.gz",
+      "sha256": "5965511a08b477b283a594cb73738e9b57ab46c9308083d5283d1c8724377f48",
+      "size": 5655824
+    },
+    {
+      "name": "fbrain-linux-x86_64.tar.gz.sha256",
+      "sha256": "5e007b74a9f2de2d95f2ed4bc416404c605a6ca047f3eda6b0de02f55030ecbd",
+      "size": 93
+    },
+    {
+      "name": "fbrain-macos-aarch64.tar.gz",
+      "sha256": "7427d0c1d36d3ed13d61219396dcd4810dc5811bc27b702a3b4dd653936f933e",
+      "size": 5109844
+    },
+    {
+      "name": "fbrain-macos-aarch64.tar.gz.sha256",
+      "sha256": "0177d99da93c6670350a511a687551403c4a0e838a7e717aa5f6b9f9ccb52d77",
+      "size": 94
+    },
+    {
+      "name": "fbrain-macos-x86_64.tar.gz",
+      "sha256": "3da10a9ef83fa28d3e815eea252a1f1ad96723444b15ce32a8fd60c71fc06234",
+      "size": 5375343
+    },
+    {
+      "name": "fbrain-macos-x86_64.tar.gz.sha256",
+      "sha256": "a22270dc7dc21def07586faab979c77b069f519f94f757c37f7ba1fc7b45b03e",
+      "size": 93
+    },
+    {
+      "name": "finite-brain-linux-x86_64.tar.gz",
+      "sha256": "a502fcc0516f15a7e70910e2a927ab8bddc5f3d15ea9d4a9cb7b7c89797ac2f3",
+      "size": 5990729
+    },
+    {
+      "name": "finite-brain-linux-x86_64.tar.gz.sha256",
+      "sha256": "c80c514c2c648c53f7e9da1e5cf2568d4f18fcc3e58a5517171ff4b4d884aa63",
+      "size": 99
+    }
+  ],
+  "build_run": "39546767667",
+  "component": "fbrain",
+  "schema": "finite-release/v1",
+  "source_sha": "17f63b9c4aae3b8f52fa6c529c04814a973a9bf5",
+  "tag": "fbrain/v0.8.0",
+  "version": "0.8.0"
+}
